@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# FastMCP 🚀
+# FastMCP 🚀🚀
 
 <div align="center">
 
